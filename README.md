@@ -1,10 +1,10 @@
 ## Hola! 👋 Mi nombre es Waldemar.
 
-##### 👨‍💻 Soy un desarrollador web cuya pasión es aprender y experimentar con nuevas tecnologías.
+#### 👨‍💻 Soy un desarrollador web cuya pasión es aprender y experimentar con nuevas tecnologías.
 
-##### 💻 Disfruto creando cosas que viven en la web - desde websites hasta aplicaciones, y todo lo que está entre medio.
+#### 💻 Disfruto creando cosas que viven en la web - desde websites hasta aplicaciones, y todo lo que está entre medio.
 
-##### 📚 Actualmente estoy aprendiendo y realizando proyectos con Django, Javascript y PostgreSQL.
+#### 📚 Actualmente estoy aprendiendo y realizando proyectos con Django, Javascript y PostgreSQL.
 
 
 ### Lenguajes y herramientas que utilizo:
