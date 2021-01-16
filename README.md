@@ -8,6 +8,7 @@
 
 
 ### Lenguajes y herramientas que utilizo:
+[Python](python.png)<img src="images/python.png" height="26px" align="left">
 <img align="left" alt="Python" width="26px" src="images/python.png" />
 <img align="left" alt="Django" width="60px" src="images/django.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
